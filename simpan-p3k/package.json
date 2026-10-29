@@ -1,0 +1,7 @@
+{
+  "name": "simpan-p3k-bali",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SIMPAN P3K Bali - Pemantauan Layanan P3K",
+  "engines": { "node": ">=20" }
+}
